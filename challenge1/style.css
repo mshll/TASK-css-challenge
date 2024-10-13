@@ -1,0 +1,21 @@
+body {
+  background-color: #201534;
+}
+
+.ruge-boogie-regular {
+  font-family: 'Ruge Boogie', cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  border: 1px solid white;
+  margin: 5px;
+  padding: 5px;
+}
+
+.movie-info {
+  font-family: 'Ruge Boogie';
+  color: white;
+  text-align: center;
+}
